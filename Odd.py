@@ -13,4 +13,6 @@ for i in range(5):
         print("Ta minuta wydaje się dość nieparzysta.")
     else:
         print("Minuta parzysta.")
-    time.sleep(5)
+    wait_time = random.randint(1, 60)
+    print(wait_time)
+    time.sleep(wait_time)
