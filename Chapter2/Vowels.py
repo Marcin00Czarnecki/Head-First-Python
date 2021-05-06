@@ -1,6 +1,6 @@
 vowels = ['a', 'e', 'i', 'o', 'u']
 
-world = "Miliard"
+world = input("Podaj słowo, w którym należy wyszukać samogłoski: ")
 
 found = []
 
