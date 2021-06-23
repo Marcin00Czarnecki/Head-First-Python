@@ -56,7 +56,7 @@ body {
   }
   
   td, th {
-  border:             thin dotted gray;
+  border:             thin dotted rgb(187, 13, 13);
   }
   
   /*** Inputs ***/
